@@ -1,0 +1,19 @@
+#heading{
+    text-align: center;
+    
+}
+#footer{
+    background-color: #75C2BE;
+}
+#farewell{
+    padding: 20px;
+}
+#main{
+    background-color: #F7F7F7;
+}
+#video_display{
+    display: flex;
+    justify-content: center;
+
+    padding: 20px;
+}
